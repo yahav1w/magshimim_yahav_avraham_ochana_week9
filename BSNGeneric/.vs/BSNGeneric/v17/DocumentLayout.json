@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\came_with_computer\\now\\magshimim_yahav_avraham_ochana_week3\\BSNGeneric\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{06F72B55-3B45-44A1-8597-D6CFA039AE83}|BSNGeneric.vcxproj|C:\\Users\\user\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\came_with_computer\\now\\magshimim_yahav_avraham_ochana_week3\\BSNGeneric\\BSNode.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{06F72B55-3B45-44A1-8597-D6CFA039AE83}|BSNGeneric.vcxproj|solutionrelative:BSNode.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06F72B55-3B45-44A1-8597-D6CFA039AE83}|BSNGeneric.vcxproj|C:\\Users\\user\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\came_with_computer\\now\\magshimim_yahav_avraham_ochana_week3\\BSNGeneric\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{06F72B55-3B45-44A1-8597-D6CFA039AE83}|BSNGeneric.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\came_with_computer\\now\\magshimim_yahav_avraham_ochana_week3\\BSNGeneric\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\came_with_computer\\now\\magshimim_yahav_avraham_ochana_week3\\BSNGeneric\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-21T21:05:12.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BSNode.hpp",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\came_with_computer\\now\\magshimim_yahav_avraham_ochana_week3\\BSNGeneric\\BSNode.hpp",
+              "RelativeDocumentMoniker": "BSNode.hpp",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\came_with_computer\\now\\magshimim_yahav_avraham_ochana_week3\\BSNGeneric\\BSNode.hpp",
+              "RelativeToolTip": "BSNode.hpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-21T20:54:33.067Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
