@@ -1,0 +1,9 @@
+﻿  Profile.cpp
+  testList.cpp
+C:\Users\user\OneDrive\שולחן העבודה\came_with_computer\now\magshimim_yahav_avraham_ochana_week3\magshimim_week_09_part2\testList.cpp(21,1): warning C4005: 'PURPLE': macro redefinition
+  C:\Users\user\OneDrive\שולחן העבודה\came_with_computer\now\magshimim_yahav_avraham_ochana_week3\magshimim_week_09_part2\testList.cpp(15,1):
+  see previous definition of 'PURPLE'
+  
+  User.cpp
+  Generating Code...
+  magshimim_week_09_part2.vcxproj -> C:\Users\user\OneDrive\שולחן העבודה\came_with_computer\now\magshimim_yahav_avraham_ochana_week3\magshimim_week_09_part2\x64\Debug\magshimim_week_09_part2.exe
